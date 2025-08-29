@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 
 
 <!--
 **kazuhaaa7/kazuhaaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👀 I'm interested in App Dev and Artificial Intelegent
 -->
+- 👋 Hi, I'm @fathorrossii.i 
+- 🌱 I’m currently learning Python Programming Language
+- 📬 How to reach me fthrrssi@gmail.com
+
+
+![anime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh5b3BtcGVsN2dpejRlNDVjZGs1MGZpMTRzZHRlMTBjOGt2NXJ3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dyjrpqaUVqCELGuQVr/giphy.gif)
