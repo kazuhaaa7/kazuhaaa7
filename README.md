@@ -63,10 +63,10 @@ Here are some ideas to get you started:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kazuhaaa7) 
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazuhaaa7/kazuhaaa7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazuhaaa7/kazuhaaa7/output/pacman-contribution-graph.svg">
   <img alt="-" src="https://raw.githubusercontent.com/kazuhaaa7/kazuhaaa7/output/pacman-contribution-graph.svg">
 </picture>
-  
+   -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
